@@ -50,4 +50,22 @@ B.
 
 C.
 
-1. Championship Bass
+1: Championship Bass
+
+2: Crash Bandicoot
+
+3: Crash Bandicoot 2 
+
+4: Crash Bandicoot 2 Beta
+
+5: Crash Bandicoot - Warped
+
+6: Crash Bash
+
+7: Crash Team Racing
+
+8: Championship Motocross 2001 featuring Ricky Carmichael
+
+9: Championship Motocross featuring Ricky Carmichael
+
+10: Colin McRae Rally 2.0
